@@ -43,9 +43,9 @@ Tools:
 
 ### 🎯 **What I'm Building**
 
-🔥 **Math CAPTCHA Form** • Clean anti-spam solution  
+🔥 **Web Applications** • Modern responsive solutions  
 ⚡ **Custom WordPress Themes** • Beyond templates  
-🚀 **PHP Web Applications** • Scalable backends  
+🚀 **PHP Backend Systems** • Scalable server solutions  
 
 ---
 
