@@ -1,31 +1,47 @@
-# 🙋‍♂️ Hello world!
+# Hi there! 👋 I'm [Your Name]
 
-**[Your Name], 20, Italy!**
+### 🌍 Web Developer from Italy
 
-> I use a wide range of technologies to create complete and high-performance web solutions. Each tool is chosen based on the specific needs of the project.
-
-## - 🧠 Technologies
-
-[![](https://skillicons.dev/icons?i=html)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=css)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=js)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=php)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=mysql)](https://yourwebsite.com)
-<br>
-[![](https://skillicons.dev/icons?i=wordpress)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=tailwind)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=bootstrap)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=git)](https://yourwebsite.com)
-[![](https://skillicons.dev/icons?i=vscode)](https://yourwebsite.com)
+Building complete web solutions from frontend to backend. I focus on creating clean, functional applications that solve real problems.
 
 ---
 
-## 📊 GitHub Stats:
+## 🛠️ My Toolkit
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+### Frontend
+[![](https://skillicons.dev/icons?i=html,css,js)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://yourwebsite.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages">
+### Backend & CMS  
+[![](https://skillicons.dev/icons?i=php,mysql,wordpress)](https://yourwebsite.com)
 
-## 🏆 GitHub Trophies
+### Development
+[![](https://skillicons.dev/icons?i=git,vscode,c)](https://yourwebsite.com)
 
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- **Web Applications**: Building responsive solutions with modern technologies
+- **WordPress Development**: Custom themes and functionality
+- **Backend Systems**: PHP & MySQL for robust data handling
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
