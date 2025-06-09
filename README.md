@@ -1,14 +1,31 @@
-## Hi there 👋
+# 🙋‍♂️ Hello world!
 
-**MattiaCode-IT/MattiaCode-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Your Name], 20, Italy!**
 
-Here are some ideas to get you started:
+> I use a wide range of technologies to create complete and high-performance web solutions. Each tool is chosen based on the specific needs of the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## - 🧠 Technologies
+
+[![](https://skillicons.dev/icons?i=html)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=css)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=js)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=php)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=mysql)](https://yourwebsite.com)
+<br>
+[![](https://skillicons.dev/icons?i=wordpress)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=tailwind)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=bootstrap)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=git)](https://yourwebsite.com)
+[![](https://skillicons.dev/icons?i=vscode)](https://yourwebsite.com)
+
+---
+
+## 📊 GitHub Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages">
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
