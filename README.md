@@ -49,18 +49,6 @@ Tools:
 
 ---
 
-### 🤝 **Connect**
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-3b82f6?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</p>
-
----
-
 <p align="center">
 <i>"Building tomorrow's web, one commit at a time"</i>
 </p>
